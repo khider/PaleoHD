@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1024530046.svg)](https://doi.org/10.5281/zenodo.16338034)
+
+
 # PaleoHD:High Resolution Paleoclimate Reconstructions
 
 ## Overview
