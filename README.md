@@ -27,3 +27,19 @@ To clone and explore the notebooks:
 git clone https://github.com/khider/paleoHD.git
 cd PaleoHD
 ```
+
+## Repository Organization
+
+paleoHD/
+│
+├── notebooks/                              # Jupyter notebooks organized by stage
+│   ├── DataAssimilation                    # Workflows for data assimilation using the cfr workshop
+│       ├── 01_ProxyAssembly.ipynb
+│       └── 02_Data_assimilation.ipynb
+│       └── 03_a_data_validation_.ipynb
+│       └── 03_b_data_comparison_.ipynb
+│   ├── DataComparison                      #Comparison among paleo products and to instrumental records
+└── README.md                               # Information pertinent to the project
+└── LICENSE                                 # License information
+└── citation.cff                            # citation information
+└── environment.yml                         # computational environment     
