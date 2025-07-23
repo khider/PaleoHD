@@ -1,0 +1,90 @@
+Group,Note
+0,Records from different samples. Not true duplicates.
+1,Records from different samples. Not true duplicates.
+2,Records from different samples. Not true duplicates.
+3,Records from different samples. Not true duplicates.
+4,Records from different samples. Not true duplicates.
+5,Records from different samples. Not true duplicates.
+6,Records from different samples. Not true duplicates.
+7,Records from different samples. Not true duplicates.
+8,Ocean2kHR_142_iso2k is a duplicate of Ocean2kHR_142 deom most likely PAGES2k. Removing iso2k record. Same with 156 and 157
+9,From publications info in GraphDB. Different records.
+10,Same records. Keeping 147.
+11,Same record. Keeping 149
+12,"Same records, keeping Ocean2kHR_006 from PAGES2k"
+13,Same record. Keeping Ocean2kHR_019
+14,Records from different samples. Not true duplicates.
+15,Records from different samples. Not true duplicates.
+16,Same record. Keeping Ocean2kHR_193
+17,Two records but duplicates. Keeping Ocean2kHR_023 and 026.
+18,Two records. Keeping Ocean2kHR 027 and 025
+19,Same record across all compilations. Keeping Ocean2kHR_133
+20,Records from different samples. Not true duplicates.
+21,Same record across all three compilations. Keeping Ocean2kHR_183
+22,Same record across all three compilations. Keeping Ocean2kHR166
+23,Records from different samples. Not true duplicates.
+24,Records from different samples. Not true duplicates.
+25,Records from different samples. Not true duplicates.
+26,Records from different samples. Not true duplicates.
+27,Records from different samples. Not true duplicates.
+28,Records from different samples. Not true duplicates.
+29,Same record from two different compilations. Keeping Ocean2kHR_099
+30,Same record from two different compilations. Keeping Ocean2HR_100
+31,Records from different samples. Not true duplicates.
+32,Records from different samples. Not true duplicates.
+33,Same record from three different compilations. Keeping Ocean2kHR_173
+34,Records from different samples. Not true duplicates.
+35,Same record from three different compilations. Keeping Ocean2kHR_001
+36,Records from different samples. Not true duplicates.
+37,Records from different samples. Not true duplicates.
+38,Records from different samples. Not true duplicates.
+39,Same record from two different compilations. Keeping Ocean2kHR_167
+40,Same record from two different compilations. Keeping Ocean2kHR_094
+41,Same record from three compilations (note that it's most likely from two different coral head which CoralHydro2k archived in different dataset). Keeping Ocean2kHR_007
+42,Records from different samples. Not true duplicates.
+43,Records from different samples. Not true duplicates.
+44,Records from different samples. Not true duplicates.
+45,Records from different samples. Not true duplicates.
+46,Same record from three different compilations. Keeping Ocean2kHR_177
+47,Records from different samples. Not true duplicates.
+48,Same record from two different compilations. Keeping SAm_035
+49,Records from different samples. Not true duplicates.
+50,Records from different samples. Not true duplicates.
+51,Records from different samples. Not true duplicates.
+52,Palmyra record!!!! Keeping PCU-1cce3af5639a4ec from Dee et al. (2020)
+53,Records from different samples. Not true duplicates.
+54,Records from different samples. Not true duplicates.
+55,Records from different samples. Not true duplicates.
+56,Records from different samples. Not true duplicates.
+57,Records from different samples. Not true duplicates.
+58,Records from different samples. Not true duplicates.
+59,Records from different samples. Not true duplicates.
+60,Records from different samples. Not true duplicates.
+61,Same record from different compilations. Keeping Ocean2kHR_020
+62,Records from different samples. Not true duplicates.
+63,Records from different samples. Not true duplicates.
+64,Records from different samples. Not true duplicates.
+65,Same record from two different compilations. Keeping Ocean2kHR_134
+66,Records from different samples. Not true duplicates.
+67,Records from different samples. Not true duplicates.
+68,Records from different samples. Not true duplicates.
+69,Records from different samples. Not true duplicates.
+70,Same record from two different compilations. Keeping Ocean2kHR_190
+71,Same record from two different compilations. Keeping Ocean2kHR_191
+72,Records from different samples. Not true duplicates.
+73,Records from different samples. Not true duplicates.
+74,Same record from two different compilations. Keeping Ocean2kHR_013
+75,Records from different samples. Not true duplicates.
+76,Records from different samples. Not true duplicates.
+77,Records from different samples. Not true duplicates.
+78,Records from different samples. Not true duplicates.
+79,Same record from different compilations. Keeping Ocean2kHR_126
+80,"Same reocords. Keeping Ocean2kHR 102 and 105 as well as DR00NBB01, which seems to be unique"
+81,Records from different samples. Not true duplicates.
+82,Same record from different compilation. Keeping Ocean2kHR_154
+83,Same record from different compilations. Keeping Ocean2kHR_159
+84,Records from different samples. Not true duplicates.
+85,Same record from different compilations. Keeping Ocean2kHR_138
+86,Records from different samples. Not true duplicates.
+87,Records from different samples. Not true duplicates.
+88,Records from different samples. Not true duplicates.
