@@ -5,7 +5,7 @@
 
 ## Overview
 
-PaleoHD is a collection of Jupyter Notebooks and workflows designed to generate climate field reconstructions and downscale them to obtain high-resolution map of key environmental variables that can be used in agriculture modeling. 
+PaleoHD is a collection of Jupyter Notebooks and workflows designed to downscale paleoclimate field reconstructions into high-resolution maps of key environmental variables that can be used in agriculture modeling. 
 
 The downscaling is achieved using deep learning methods, particularly, diffusion models.
 
@@ -33,13 +33,12 @@ cd PaleoHD
 paleoHD/
 │
 ├── notebooks/                              # Jupyter notebooks organized by stage
-│   ├── DataAssimilation                    # Workflows for data assimilation using the cfr workshop
-│       ├── 01_ProxyAssembly.ipynb
-│       └── 02_Data_assimilation.ipynb
-│       └── 03_a_data_validation_.ipynb
-│       └── 03_b_data_comparison_.ipynb
 │   ├── DataComparison                      #Comparison among paleo products and to instrumental records
 └── README.md                               # Information pertinent to the project
 └── LICENSE                                 # License information
 └── citation.cff                            # citation information
-└── environment.yml                         # computational environment     
+└── environment.yml                         # computational environment
+
+
+
+
